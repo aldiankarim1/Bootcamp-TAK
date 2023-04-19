@@ -1,0 +1,16 @@
+{
+  "name": "mocha",
+  "version": "1.0.0",
+  "description": "belajar mocha TAK bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Aldian Karim",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
+  }
+}
